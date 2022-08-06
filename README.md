@@ -2,10 +2,10 @@
 <p align="center">EternalGaius is a feature-rich, easy-to-use Discord multipurpose bot built to deliver the best experience on Discord.<br>Focus mainly on Utility, Fun and Moderation</br></p>
 <p align="center">
   <a href="http://forthebadge.com/">
-    <img src="https://i.imgur.com/waoeOgP.png"/>
+    <img src="https://i.imgur.com/GwGK8WG.png"/>
   </a>
   <a href="http://forthebadge.com/">
-    <img src="https://i.imgur.com/7aSQkUy.png"/>
+    <img src="https://i.imgur.com/Co7TKRR.png"/>
   </a>
 </p>
 
