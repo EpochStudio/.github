@@ -18,6 +18,7 @@ EternalGaius was never meant to be a permanent project, I originally made it for
 
 ## Useful Links
 <p>
+
 Support Server: [Click Me](https://discord.gg/9PnUBeu)
 
 
