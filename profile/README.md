@@ -20,6 +20,7 @@ EternalGaius was never meant to be a permanent project, I originally made it for
 <p>
 Support Server: [Click Me](https://discord.gg/9PnUBeu)
 
+
 Invite EternalGaius: [Click Me](https://discord.com/api/oauth2/authorize?client_id=716248082865455174&permissions=1375329447126&scope=bot%20applications.commands)
 
 </p>
