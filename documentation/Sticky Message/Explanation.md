@@ -38,7 +38,7 @@ By: chrissch.dev
  
 ## [SubGroup - View]
  
-# [Group - Edit]
+### [Group - Edit]
 	Loads all configured Sticky Messages inside the guild. Checks if a Sticky Message exists for a channel that no longer exists,
 	if found, delete the said Sticky Message config.
 	Once done with the checks (and actions, if any), lists all Sticky Messages configured inside a pagination embed.
