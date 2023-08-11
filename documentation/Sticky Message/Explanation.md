@@ -1,6 +1,10 @@
 # Sticky Message System Explained
-By: chrissch.dev
- 
+Before we start, huge thanks to the following people for their help during the development of this feature:
+- [aniket091](https://discord.com/users/474255126228500480)
+- [sujal1048d](https://discord.com/users/668090704601415691)
+
+Documentation Guide By: chrissch.dev
+
 ## [SubGroup - AddRemove]
  
 ### [Group - Add]:
