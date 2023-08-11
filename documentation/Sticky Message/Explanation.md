@@ -29,9 +29,9 @@ Documentation Guide By: chrissch.dev
 ### [Group - Content]
     Creates a Message Collector, that collects the next message of the user (This message will be what's displayed on the Sticky Message)
     If the message is, longer than 900 characters, or equal to the word 'cancel', returns an error message.
-    If the message passes all checks above, attempt to delete the old Sticky Message, once done, send the new Sticky Message version to the channel.
-    If sending the new Sticky Message to the channel is successful, immediately tries to save Data to the database, if fails, it will not delete the sticky message, or do anything, it will just return an error message. And the Sticky Message will continue posting Old Content.
-    if successfully saved, reset the counter to 1
+    If the message passes all checks above, attempts to save data in the database, if successfully, returns the successful message, else returns an error message.
+    If successful, sets the text counter to the amount required to repost the sticky message, so the sticky message will be updated on the next message.
+
 ### [Group - Text Amount]
     Checks if the integer entered is lower than 2 or higher than 20, if yes, returns an error message
     Saves data to Database, if failed, return error message only
