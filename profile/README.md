@@ -9,9 +9,4 @@
   </a>
 </p>
 
-## About Galaxies
-<p>
-Galaxies was never meant to be a permanent project, I originally made it for fun, however after the support and positive feedback I received, I've decided to make EternalGaius a long term project! At Galaxies we strive to give our users the best experience while using our bot while maintaining stability and security for our users data.
-</p>
-
 ---
